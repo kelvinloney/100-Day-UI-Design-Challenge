@@ -7,7 +7,7 @@ From there I proceeded to undertake a series of daily Design Challenges utilizin
 
 
 
-## A series of daily Design Challenges
+## High-fidelity mockups
 
 <img width="828" alt="chase-freedom-concept" src="https://github.com/user-attachments/assets/b378bd19-08d2-42c0-bb9d-c48d067840db" />
 </br>
@@ -30,5 +30,5 @@ From there I proceeded to undertake a series of daily Design Challenges utilizin
 </br>
 </br>
 
-## A responsive website wireframe
+## Wireframes
 <img width="828" alt="kicksmini-responsive" src="https://github.com/user-attachments/assets/4421e827-f56e-41fa-a764-3e02292892f1" />
