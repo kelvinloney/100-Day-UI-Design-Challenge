@@ -31,4 +31,12 @@ From there I proceeded to undertake a series of daily Design Challenges utilizin
 </br>
 
 ## Wireframes
-<img width="828" alt="kicksmini-responsive" src="https://github.com/user-attachments/assets/4421e827-f56e-41fa-a764-3e02292892f1" />
+<img width="828" alt="kicksmini-responsive-wireframe" src="https://github.com/user-attachments/assets/4421e827-f56e-41fa-a764-3e02292892f1" />
+
+</br>
+</br>
+</br>
+
+## Prototypes
+<video autoplay loop muted playsinline src="https://github.com/user-attachments/assets/39f7d95e-d7d2-4b61-bd41-82a774f1ef87" type="video/mp4"></video>
+
