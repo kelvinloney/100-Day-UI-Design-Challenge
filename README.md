@@ -1,7 +1,5 @@
 # 100-Day UI Design Challenge
-I enrolled in a free ***design*** course consisting of 17 learning units and more than 40 resources that dive into the fundamentals of ***UX/UI*** design, during which I acquired knowledge about the various UX processes, tools, and methodologies utilized by designers, as well as insights into the UX/UI industry.
-
-
+I enrolled in a free ***user experience*** course consisting of 17 learning units and more than 40 resources, giving me hands-on experience with UX methodologies, design systems, and research-driven design.
 
 From there I proceeded to undertake a series of daily Design Challenges utilizing ***Figma*** to achieve my objectives.
 
